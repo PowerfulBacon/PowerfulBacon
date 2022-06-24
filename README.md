@@ -7,3 +7,4 @@
  - [ ] Finish clockcult update for SS13
  - [ ] Finish supercruise flight hazard update for SS13
  - [ ] Pester someone to merge my EMP updates
+ - [ ] Work on my website/portfolio
