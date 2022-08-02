@@ -3,8 +3,8 @@
 ## Todo
 
  - [ ] Export CorgEng ECS system to a standalone repo, have it available to use in Unity projects
- - [ ] Finish CorgEng Networking
+ - [x] Finish CorgEng Networking
  - [ ] Finish clockcult update for SS13
  - [ ] Finish supercruise flight hazard update for SS13
- - [ ] Pester someone to merge my EMP updates
- - [ ] Work on my website/portfolio
+ - [x] Pester someone to merge my EMP updates
+ - [x] Work on my website/portfolio
