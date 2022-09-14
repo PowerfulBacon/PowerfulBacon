@@ -8,3 +8,4 @@
  - [ ] Finish supercruise flight hazard update for SS13
  - [x] Pester someone to merge my EMP updates
  - [x] Work on my website/portfolio
+ - [ ] Make a cool ass presentation
