@@ -3,6 +3,8 @@
 Check out the game engine I made:
 https://github.com/PowerfulBacon/CorgEng
 
+![ss13_lighting_3](https://user-images.githubusercontent.com/26465327/211149029-e62c1c85-0b04-487a-8099-9e18385b9f82.png)
+
 <details>
 
 <summary>Some things I have worked on:</summary>
@@ -10,8 +12,6 @@ https://github.com/PowerfulBacon/CorgEng
 ### Space Station 13 Fancy Lighting
 
 A beautiful shadow based lighting system utilising some fun transformation math. Unfortunately due to the restrictions of the engine, I was unable to overcome the client lag caused by Byond's KEEP_TOGETHER flag causing lag when rendering lights.
-
-![ss13_lighting_3](https://user-images.githubusercontent.com/26465327/211149029-e62c1c85-0b04-487a-8099-9e18385b9f82.png)
 ![ss13_lighting_2](https://user-images.githubusercontent.com/26465327/211149034-34594b84-1eb9-4d58-8cfe-500bda91bae3.png)
 
 ### Random art
