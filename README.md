@@ -26,4 +26,4 @@ Some screenshots of a rimworld inspired game I made in 10 days for the global ga
 ![151660809-42c4ef5e-74f9-451c-80ab-d45a63042c6b](https://user-images.githubusercontent.com/26465327/211149016-359ef87c-aa96-4a4f-b923-78a9e171408c.png)
 </details>
 
-https://profile-counter.glitch.me/powerfulbacon/count.svg
+![image](https://profile-counter.glitch.me/powerfulbacon/count.svg)
