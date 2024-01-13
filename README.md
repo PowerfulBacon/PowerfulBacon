@@ -4,6 +4,7 @@ Check out the game engine I made:
 https://github.com/PowerfulBacon/CorgEng
 
 ![ss13_lighting_3](https://user-images.githubusercontent.com/26465327/211149029-e62c1c85-0b04-487a-8099-9e18385b9f82.png)
+![image](https://github.com/PowerfulBacon/PowerfulBacon/assets/26465327/de411ba5-36c7-404c-b783-4b5fa53448db)
 
 <details>
 
