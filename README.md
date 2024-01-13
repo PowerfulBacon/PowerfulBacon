@@ -1,10 +1,6 @@
-![image](https://github-readme-stats.vercel.app/api?username=powerfulbacon&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true)
-
-Check out the game engine I made:
-https://github.com/PowerfulBacon/CorgEng
-
-![ss13_lighting_3](https://user-images.githubusercontent.com/26465327/211149029-e62c1c85-0b04-487a-8099-9e18385b9f82.png)
 ![image](https://github.com/PowerfulBacon/PowerfulBacon/assets/26465327/de411ba5-36c7-404c-b783-4b5fa53448db)
+
+![image](https://github-readme-stats.vercel.app/api?username=powerfulbacon&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true)
 
 <details>
 
@@ -14,6 +10,7 @@ https://github.com/PowerfulBacon/CorgEng
 
 A beautiful shadow based lighting system utilising some fun transformation math. Unfortunately due to the restrictions of the engine, I was unable to overcome the client lag caused by Byond's KEEP_TOGETHER flag causing lag when rendering lights.
 ![ss13_lighting_2](https://user-images.githubusercontent.com/26465327/211149034-34594b84-1eb9-4d58-8cfe-500bda91bae3.png)
+![ss13_lighting_3](https://user-images.githubusercontent.com/26465327/211149029-e62c1c85-0b04-487a-8099-9e18385b9f82.png)
 
 ### Random art
 
