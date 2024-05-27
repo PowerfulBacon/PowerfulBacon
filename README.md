@@ -1,6 +1,10 @@
+![image](https://profile-counter.glitch.me/powerfulbacon/count.svg)
+
 ![image](https://github.com/PowerfulBacon/PowerfulBacon/assets/26465327/de411ba5-36c7-404c-b783-4b5fa53448db)
 
 ![image](https://github-readme-stats.vercel.app/api?username=powerfulbacon&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true)
+
+Over 650 PRs for Space Station 13 and counting! https://github.com/BeeStation/BeeStation-Hornet/pulls/PowerfulBacon
 
 <details>
 
@@ -23,5 +27,3 @@ Some screenshots of a rimworld inspired game I made in 10 days for the global ga
 
 ![151660809-42c4ef5e-74f9-451c-80ab-d45a63042c6b](https://user-images.githubusercontent.com/26465327/211149016-359ef87c-aa96-4a4f-b923-78a9e171408c.png)
 </details>
-
-![image](https://profile-counter.glitch.me/powerfulbacon/count.svg)
